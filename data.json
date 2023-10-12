@@ -1,0 +1,36 @@
+{
+    "personas":[
+        {
+            "nombre":"juan",
+            "edad": 25,
+            "pais": "colombia"
+        },
+        {
+            "nombre":"pedro",
+            "edad": 30,
+            "pais": "peru" 
+        },
+        {
+            "nombre":"maria",
+            "edad": 20,
+            "pais": "argentina"
+        }
+    ],
+"animales":[
+        {
+            "nombre":"firulais",
+            "edad": 5,
+            "raza": "pastor aleman"
+        },
+        {
+            "nombre":"pirata",
+            "edad": 3,
+            "raza": "pitbull" 
+        },
+        {
+            "nombre":"luna",
+            "edad": 2,
+            "pais": "labrador"
+        }
+    ]
+}
